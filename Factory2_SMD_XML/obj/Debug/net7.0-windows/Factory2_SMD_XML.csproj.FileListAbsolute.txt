@@ -1,0 +1,17 @@
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\bin\Debug\net7.0-windows\Factory2_SMD_XML.exe
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\bin\Debug\net7.0-windows\Factory2_SMD_XML.deps.json
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\bin\Debug\net7.0-windows\Factory2_SMD_XML.runtimeconfig.json
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\bin\Debug\net7.0-windows\Factory2_SMD_XML.dll
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\bin\Debug\net7.0-windows\Factory2_SMD_XML.pdb
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.csproj.AssemblyReference.cache
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.Form1.resources
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.csproj.GenerateResource.cache
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.AssemblyInfoInputs.cache
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.AssemblyInfo.cs
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.csproj.CoreCompileInputs.cache
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.dll
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\refint\Factory2_SMD_XML.dll
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.pdb
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\Factory2_SMD_XML.genruntimeconfig.cache
+D:\G947\VS22repos\Factory2_SMD_XML\Factory2_SMD_XML\obj\Debug\net7.0-windows\ref\Factory2_SMD_XML.dll
